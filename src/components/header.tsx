@@ -4,7 +4,7 @@ import { ClanLogo } from './logo'
 
 export const Header = () => {
     return (
-        <div className="p-2 grid grid-flow-col rounded-lg bg-gray-600 shadow-lg">
+        <div className="p-2 grid grid-flow-col rounded-full bg-gray-600 shadow-lg">
             <ClanLogo />
             <Discord />
         </div>
