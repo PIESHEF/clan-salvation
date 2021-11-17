@@ -22,7 +22,7 @@ export const Header = () => {
 //       <li class="inline-block px-3 text-lg antialiased">Hall of Fame</li>
 //     </ul>
 //     <div class="px-5 justify-self-end">
-//       <button class="px-4 py-1 bg-blue-700 shadow-lg rounded-full">Discord</button>
+//       <button class="px-4 py-1 bg-indigo-400 drop-shadow-xl rounded-full">Discord</button>
 //     </div>
 //   <nav>
 // </header>
