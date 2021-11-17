@@ -13,7 +13,7 @@ export const Header = () => {
     )
 }
 
-// <header class='p-4 m-2 bg-gradient-to-b from-gray-500 to-gray-600 rounded-3xl'>
+// <header class='p-4 m-2 bg-gradient-to-b from-gray-200 to-gray-300 rounded-3xl'>
 //   <nav class="grid grid-cols-3 items-center place-content-evenly">
 //     <p class="px-4 text-lg antialiased">Salvation</p>
 //     <ul class="px-4">
