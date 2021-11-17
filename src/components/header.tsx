@@ -15,11 +15,11 @@ export const Header = () => {
 
 // <header class='p-4 m-2 bg-gradient-to-b from-gray-200 to-gray-300 rounded-3xl'>
 //   <nav class="grid grid-cols-3 items-center place-content-evenly">
-//     <p class="px-4 text-lg antialiased">Salvation</p>
+//     <p class="px-4 text-m antialiased">Salvation</p>
 //     <ul class="px-4">
-//       <li class="inline-block px-3 text-lg antialiased">About</li>
-//       <li class="inline-block px-3 text-lg antialiased">Roster</li>
-//       <li class="inline-block px-3 text-lg antialiased">Hall of Fame</li>
+//       <li class="inline-block px-3 text-m antialiased">About</li>
+//       <li class="inline-block px-3 text-m antialiased">Roster</li>
+//       <li class="inline-block px-3 text-m antialiased">Hall of Fame</li>
 //     </ul>
 //     <div class="px-5 justify-self-end">
 //       <button class="px-4 py-1 bg-indigo-400 drop-shadow-xl rounded-full">Discord</button>
