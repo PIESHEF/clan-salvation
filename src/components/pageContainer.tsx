@@ -3,9 +3,10 @@ import { Page } from './pages'
 
 export const PageContainer = () => {
     return (
-        <div className='p-2 grid grid-flow-col'>
+        <ul className="px-4">
+            <Page label="About" />
             <Page label="Roster" />
             <Page label="Hall of Fame" />
-        </div>
+        </ul>
     )
 }

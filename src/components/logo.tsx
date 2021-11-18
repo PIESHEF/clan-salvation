@@ -10,3 +10,5 @@ export const ClanLogo = () => {
         </div>
     )
 }
+
+<p className="px-4 text-m antialiased">Salvation</p>

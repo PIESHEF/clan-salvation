@@ -3,9 +3,7 @@ import { Header } from './components/header'
 
 function App() {
   return (
-    <header className="p-2">
-      <Header />
-    </header>
+    <Header />
   );
 }
 
