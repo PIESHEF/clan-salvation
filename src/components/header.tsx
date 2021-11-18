@@ -5,7 +5,7 @@ import { PageContainer } from './pageContainer'
 
 export const Header = () => {
     return (
-        <header className='p-1 m-2 bg-gradient-to-b from-gray-200 to-gray-300 rounded-3xl'>
+        <header className='p-.5 m-2 bg-gradient-to-b from-gray-200 to-gray-300 rounded-3xl'>
             <nav className="grid grid-cols-3 items-center place-content-evenly">
                 <ClanLogo />
                 <PageContainer />
